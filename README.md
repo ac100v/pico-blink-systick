@@ -24,4 +24,5 @@ MIT / Apache 2.0 のデュアルライセンスとします。
 
 ## 連絡先
 
+KIKUCHI Yusuke
 ac100v.net@gmail.com
