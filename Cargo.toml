@@ -2,7 +2,7 @@
 authors = ["KIKUCHI Yusuke"]
 edition = "2018"
 readme = "README.md"
-name = "pico-blink-timer"
+name = "pico-blink-systick"
 version = "0.1.0"
 resolver = "2"
 
